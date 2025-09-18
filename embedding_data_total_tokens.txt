@@ -1,0 +1,5 @@
+total_tokens=248326
+num_docs=1071
+avg_tokens=231.9
+p95_tokens=328
+max_tokens=404
