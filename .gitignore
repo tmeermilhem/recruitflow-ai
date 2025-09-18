@@ -2,11 +2,4 @@
 __pycache__/
 *.pyc
 .env
-tokens_count/*
-!tokens_count/.gitkeep
-
-data/runs/*
-!data/.gitkeep
-
-.env
-.env
+data/runs/
