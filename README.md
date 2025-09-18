@@ -199,9 +199,10 @@ data/runs/<timestamp>/
 ---
 Token usage :
 During Embedding phase (resumes) - a total of 248326 tokens were used.
-During Testing our agent (the gpt 4o api tokens) 
-- a total of 221,663 input tokens were used.
-- a total of 29,826 output tokens were used.
+When we were testing our agent :
+- a total of 219,696 input tokens were used with GPT-4o.
+- a total of 29,826 output tokens were used with GPT-4o.
+- a total of 1,966 were used for the embedding model.
 - there was an issue in our counting function - some tokens were not counted, but they only a fraction of the documented used tokens.
 
 ---
@@ -237,6 +238,7 @@ Qualifications:
 •	Education: Bachelor's degree in Computer Science, Software Engineering, or a related field.
 •	Technical Skills: Proficiency in at least one modern front-end framework (e.g., React, Angular, Vue.js) and one back-end language/framework (e.g., Node.js, Python/Django, Ruby on Rails, Java/Spring). Strong knowledge of RESTful APIs, relational and NoSQL databases, and Git.
 •	Soft Skills: Excellent problem-solving abilities, strong communication, and the capacity to work effectively in an Agile/Scrum team.
+
 
 
 
