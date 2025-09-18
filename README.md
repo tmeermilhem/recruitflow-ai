@@ -1,3 +1,4 @@
+Tameer Milhem 322729443 , Luay Marzok 319111605
 # RecruitFlow AI – Autonomous Recruitment Agent
 
 RecruitFlow AI is an autonomous agent that streamlines candidate retrieval, evaluation, and ranking given a raw job listing.  
@@ -238,6 +239,7 @@ Qualifications:
 •	Education: Bachelor's degree in Computer Science, Software Engineering, or a related field.
 •	Technical Skills: Proficiency in at least one modern front-end framework (e.g., React, Angular, Vue.js) and one back-end language/framework (e.g., Node.js, Python/Django, Ruby on Rails, Java/Spring). Strong knowledge of RESTful APIs, relational and NoSQL databases, and Git.
 •	Soft Skills: Excellent problem-solving abilities, strong communication, and the capacity to work effectively in an Agile/Scrum team.
+
 
 
 
