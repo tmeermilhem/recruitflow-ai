@@ -1,0 +1,1139 @@
+{
+  "job": {
+    "title": "Supply Chain Analyst",
+    "required_skills": [
+      "data analysis",
+      "SQL",
+      "data visualization tools",
+      "problem-solving",
+      "communication",
+      "collaboration"
+    ],
+    "experience_required": "3-5 years in supply chain, logistics, or operations",
+    "education_required": "Bachelor's degree in Supply Chain Management, Industrial Engineering, or a related field",
+    "extra_attributes": [
+      "analyzing supply chain processes",
+      "optimizing inventory levels",
+      "improving logistics efficiency",
+      "enhancing forecasting accuracy"
+    ]
+  },
+  "top": [
+    {
+      "doc_id": "sc_senior_analyst_01",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 100,
+        "education_score": 100,
+        "overall_score": 98,
+        "reasons": {
+          "skills": "Candidate possesses all required skills and additional relevant expertise, such as Python and advanced analytics.",
+          "experience": "Exceeds the required 3-5 years with 10+ years of relevant experience, including leadership roles and impactful projects.",
+          "education": "Holds both a Bachelor's and Master's degree in highly relevant fields, surpassing the requirement.",
+          "overall": "Candidate is highly qualified, meeting or exceeding all criteria with strong evidence of relevant skills, experience, and education."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_senior_analyst_01",
+        "source_path": "synthetic://sc_senior_analyst_01.txt",
+        "name": "Chris Anderson",
+        "contact": {
+          "email": "chris.anderson@example.com",
+          "phone": "+1-555-321-9876",
+          "location": "Boston, USA",
+          "linkedin": "https://www.linkedin.com/in/chris-anderson-sc",
+          "github": "https://github.com/canderson-sc"
+        },
+        "skills": [
+          "SQL",
+          "Python (SciPy, Pandas, Scikit-learn)",
+          "Tableau",
+          "Power BI",
+          "SAP",
+          "Kinaxis",
+          "Supply Chain Strategy",
+          "Network Optimization",
+          "Demand Planning",
+          "Predictive Analytics",
+          "Inventory Strategy",
+          "Business Intelligence",
+          "Project Management",
+          "Team Leadership",
+          "Stakeholder Management",
+          "Strategic Planning"
+        ],
+        "experience": [
+          {
+            "title": "Lead Supply Chain Analyst",
+            "company": "Global Solutions Inc.",
+            "start": "2018",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 5 analysts in a network optimization project that reduced transportation costs by 12% and improved on-time delivery by 8%.",
+              "Developed and implemented a new forecasting model using Python and machine learning, which improved forecast accuracy by 15% and reduced safety stock requirements.",
+              "Served as a key liaison between the supply chain and IT departments, guiding the implementation of a new ERP module for demand planning."
+            ]
+          },
+          {
+            "title": "Senior Analyst",
+            "company": "Data-Driven Logistics",
+            "start": "2015",
+            "end": "2018",
+            "bullets": [
+              "Analyzed and interpreted complex logistics data, identifying opportunities for route optimization that led to a 7% reduction in fuel consumption.",
+              "Created a suite of automated dashboards in Tableau and Power BI, providing real-time visibility into supply chain performance for executive leadership."
+            ]
+          },
+          {
+            "title": "Supply Chain Analyst",
+            "company": "Midwest Logistics",
+            "start": "2013",
+            "end": "2015",
+            "bullets": [
+              "Performed data analysis to support inventory management projects, reducing carrying costs by 5%."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Operations Research",
+            "school": "Massachusetts Institute of Technology",
+            "year": "2013"
+          },
+          {
+            "degree": "B.S.",
+            "field": "Industrial Engineering",
+            "school": "Purdue University",
+            "year": "2011"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP)"
+        ],
+        "raw_text": "Summary\nSenior Supply Chain Analyst with 10+ years of experience in leading data-driven optimization projects across global supply chains. Expert in leveraging advanced analytics and visualization tools to solve complex business problems, drive efficiency, and reduce operational costs. A strategic leader with a proven ability to manage projects and mentor junior analysts.\n\nSkills\n\n* **Software:** SQL, Python (SciPy, Pandas, Scikit-learn), Tableau, Power BI, SAP, Kinaxis\n* **Concepts:** Supply Chain Strategy, Network Optimization, Demand Planning, Predictive Analytics, Inventory Strategy, Business Intelligence\n* **Other:** Project Management, Team Leadership, Stakeholder Management, Strategic Planning\n\nExperience\n\n**Lead Supply Chain Analyst** | Global Solutions Inc. | 2018 - Present\n* Led a team of 5 analysts in a network optimization project that reduced transportation costs by 12% and improved on-time delivery by 8%.\n* Developed and implemented a new forecasting model using Python and machine learning, which improved forecast accuracy by 15% and reduced safety stock requirements.\n* Served as a key liaison between the supply chain and IT departments, guiding the implementation of a new ERP module for demand planning.\n\n**Senior Analyst** | Data-Driven Logistics | 2015 - 2018\n* Analyzed and interpreted complex logistics data, identifying opportunities for route optimization that led to a 7% reduction in fuel consumption.\n* Created a suite of automated dashboards in Tableau and Power BI, providing real-time visibility into supply chain performance for executive leadership.\n\n**Supply Chain Analyst** | Midwest Logistics | 2013 - 2015\n* Performed data analysis to support inventory management projects, reducing carrying costs by 5%.\n\nEducation\n\n**M.S. in Operations Research** | Massachusetts Institute of Technology | 2013\n\n**B.S. in Industrial Engineering** | Purdue University | 2011\n\nProjects & Certifications\n\n* **Certification:** Certified Supply Chain Professional (CSCP)\n* **Project:** Designed and led a cross-functional project to develop a robust supply chain risk mitigation plan, which successfully averted major disruptions during a global event.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 316
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience leading the network optimization project at Global Solutions Inc. and the specific tools or methods you used?",
+          "answer": "Led a team of 5 analysts in a network optimization project at Global Solutions Inc., using tools like Python and data analysis to reduce transportation costs by 12% and improve on-time delivery by 8%."
+        },
+        {
+          "question": "How did you develop and implement the forecasting model using Python, and what challenges did you face during the process?",
+          "answer": "Developed a forecasting model using Python and machine learning, improving forecast accuracy by 15%. The implementation involved integrating the model with existing supply chain systems and training the team."
+        },
+        {
+          "question": "What role did you play in the ERP module implementation for demand planning, and how did you ensure alignment between supply chain and IT teams?",
+          "answer": "Served as a key liaison between supply chain and IT departments during the ERP module implementation for demand planning, ensuring alignment through regular meetings and progress updates."
+        },
+        {
+          "question": "You have experience with Tableau and Power BI. Can you describe a time when your dashboards directly influenced decision-making?",
+          "answer": "Created automated dashboards in Tableau and Power BI at Data-Driven Logistics, providing real-time visibility into supply chain performance and influencing executive decision-making."
+        },
+        {
+          "question": "How has your education in Operations Research and Industrial Engineering contributed to your approach to supply chain optimization?",
+          "answer": "My education in Operations Research and Industrial Engineering has provided a strong foundation in analytical and problem-solving skills, directly contributing to my approach to supply chain optimization."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_senior_analyst_02",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 100,
+        "education_score": 100,
+        "overall_score": 98,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools, and collaboration, with additional expertise in predictive analytics and supply chain optimization.",
+          "experience": "Exceeds the required 3-5 years of experience with 12 years in supply chain roles, including leadership and impactful projects.",
+          "education": "Holds both a Bachelor's and Master's degree in relevant fields, surpassing the requirement.",
+          "overall": "Candidate is highly qualified, with strong alignment in skills, experience, and education, and demonstrated success in supply chain optimization."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_senior_analyst_02",
+        "source_path": "synthetic://sc_senior_analyst_02.txt",
+        "name": "Ryan Johnson",
+        "contact": {
+          "email": "ryan.johnson@example.com",
+          "phone": "+1-555-210-9876",
+          "location": "Dallas, USA",
+          "linkedin": "https://www.linkedin.com/in/ryan-johnson-sc",
+          "github": "https://github.com/rjohnson-sc"
+        },
+        "skills": [
+          "SAP",
+          "Oracle",
+          "SQL",
+          "Python",
+          "R",
+          "Power BI",
+          "Tableau",
+          "Advanced Modeling Software",
+          "Supply Chain Optimization",
+          "Business Intelligence",
+          "Predictive Analytics",
+          "Network Design",
+          "Inventory Strategy",
+          "S&OP",
+          "Strategic Planning",
+          "Team Leadership",
+          "Budget Management",
+          "Cross-functional Collaboration"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Analytics Manager",
+            "company": "Global Operations Inc.",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Directed a team of 8 analysts, overseeing all analytical projects and strategic initiatives for a global supply chain.",
+              "Led the design and implementation of a new demand forecasting system, which improved forecast accuracy by 20% and reduced forecast variance by 30%.",
+              "Developed a global network optimization model that identified opportunities to consolidate distribution centers, generating over $20M in annual savings.",
+              "Presented key insights and recommendations to C-suite executives, guiding major business decisions."
+            ]
+          },
+          {
+            "title": "Senior Supply Chain Analyst",
+            "company": "TechCorp Solutions",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Managed and executed complex analytical projects focused on inventory optimization and logistics efficiency.",
+              "Created a suite of automated reporting tools that reduced manual reporting time by 50%.",
+              "Mentored junior analysts on best practices for data analysis and visualization."
+            ]
+          },
+          {
+            "title": "Supply Chain Analyst",
+            "company": "National Distribution Co.",
+            "start": "2011",
+            "end": "2013",
+            "bullets": [
+              "Performed daily analysis of operational data to identify and resolve bottlenecks in the distribution process."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Supply Chain Management",
+            "school": "Michigan State University",
+            "year": "2011"
+          },
+          {
+            "degree": "B.S.",
+            "field": "Operations Management",
+            "school": "Indiana University",
+            "year": "2009"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP)"
+        ],
+        "raw_text": "Summary\nStrategic leader and Supply Chain Analytics Manager with 12 years of experience in transforming supply chain operations through advanced data and business intelligence. Expert in developing and deploying analytical frameworks to optimize forecasting, inventory, and logistics networks. Proven ability to lead large-scale projects and mentor high-performing teams.\n\nSkills\n\n* **Software:** SAP, Oracle, SQL, Python, R, Power BI, Tableau, Advanced Modeling Software\n* **Concepts:** Supply Chain Optimization, Business Intelligence, Predictive Analytics, Network Design, Inventory Strategy, S&OP\n* **Other:** Strategic Planning, Team Leadership, Budget Management, Cross-functional Collaboration\n\nExperience\n\n**Supply Chain Analytics Manager** | Global Operations Inc. | 2017 - Present\n* Directed a team of 8 analysts, overseeing all analytical projects and strategic initiatives for a global supply chain.\n* Led the design and implementation of a new demand forecasting system, which improved forecast accuracy by 20% and reduced forecast variance by 30%.\n* Developed a global network optimization model that identified opportunities to consolidate distribution centers, generating over $20M in annual savings.\n* Presented key insights and recommendations to C-suite executives, guiding major business decisions.\n\n**Senior Supply Chain Analyst** | TechCorp Solutions | 2013 - 2017\n* Managed and executed complex analytical projects focused on inventory optimization and logistics efficiency.\n* Created a suite of automated reporting tools that reduced manual reporting time by 50%.\n* Mentored junior analysts on best practices for data analysis and visualization.\n\n**Supply Chain Analyst** | National Distribution Co. | 2011 - 2013\n* Performed daily analysis of operational data to identify and resolve bottlenecks in the distribution process.\n\nEducation\n\n**M.S. in Supply Chain Management** | Michigan State University | 2011\n\n**B.S. in Operations Management** | Indiana University | 2009\n\nProjects & Certifications\n\n* **Certification:** Certified Supply Chain Professional (CSCP)\n* **Project:** Developed a comprehensive business intelligence framework for the supply chain, which provided real-time insights and improved decision-making across the entire organization.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 317
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on the global network optimization model you developed at Global Operations Inc. and how it generated $20M in savings?",
+          "answer": "At Global Operations Inc., I developed a global network optimization model using advanced analytics and modeling techniques. The model analyzed our distribution network, identifying opportunities to consolidate distribution centers and optimize logistics routes, resulting in over $20M in annual savings."
+        },
+        {
+          "question": "What specific SQL queries or techniques have you used to analyze supply chain data effectively?",
+          "answer": "I've used various SQL techniques such as subqueries, joins, and window functions to analyze supply chain data. For instance, I used SQL to analyze inventory levels, demand patterns, and supply chain lead times, enabling data-driven decisions."
+        },
+        {
+          "question": "How have you utilized tools like Power BI or Tableau to create impactful data visualizations for decision-making?",
+          "answer": "I've utilized Power BI and Tableau to create interactive dashboards that provide insights into supply chain operations. For example, I created a dashboard that tracked key performance indicators (KPIs) such as inventory turnover, order fulfillment rates, and logistics costs, enabling stakeholders to make informed decisions."
+        },
+        {
+          "question": "Your resume mentions mentoring junior analysts—can you share an example of how you helped improve their skills or performance?",
+          "answer": "I mentored junior analysts at TechCorp Solutions on best practices for data analysis and visualization. One example was helping an analyst improve their data visualization skills by introducing them to Tableau and guiding them on creating effective dashboards."
+        },
+        {
+          "question": "How did your M.S. in Supply Chain Management prepare you for the challenges you’ve faced in your career?",
+          "answer": "My M.S. in Supply Chain Management from Michigan State University provided a strong foundation in supply chain principles, analytical methods, and strategic planning. The program's emphasis on practical applications and case studies helped prepare me for the challenges I've faced in my career, such as optimizing supply chain networks and improving forecasting accuracy."
+        }
+      ]
+    },
+    {
+      "doc_id": "de_senior_scm_07",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 100,
+        "education_score": 100,
+        "overall_score": 98,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools (Tableau), and problem-solving, with additional expertise in SAP and Python.",
+          "experience": "Candidate exceeds the required 3-5 years of experience with 12 years in supply chain roles, including leadership and global logistics optimization.",
+          "education": "Candidate holds a Bachelor's degree in Industrial Engineering and an MBA in Supply Chain Management, surpassing the educational requirements.",
+          "overall": "Candidate is highly qualified, meeting or exceeding all job requirements with relevant skills, extensive experience, and strong educational background."
+        }
+      },
+      "candidate": {
+        "doc_id": "de_senior_scm_07",
+        "source_path": "synthetic://de_senior_scm_07.txt",
+        "name": "Robert Taylor",
+        "contact": {
+          "email": "robert.taylor@example.com",
+          "phone": "+1-555-789-0123",
+          "location": "New York, USA",
+          "linkedin": "https://www.linkedin.com/in/de_senior_scm_07",
+          "github": "https://github.com/de_senior_scm_07"
+        },
+        "skills": [
+          "SAP",
+          "SQL",
+          "Python",
+          "Tableau",
+          "Supply Chain Strategy",
+          "Process Automation",
+          "Global Logistics",
+          "Strategic Sourcing"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Manager",
+            "company": "GlobalChain Solutions",
+            "start": "January 2016",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 10 to implement SAP-based supply chain automation, saving $2M annually.",
+              "Developed SQL-based analytics for demand forecasting, improving accuracy by 25%.",
+              "Oversaw global logistics operations, achieving a 98% on-time delivery rate across 20 countries."
+            ]
+          },
+          {
+            "title": "Senior Logistics Analyst",
+            "company": "TransWorld Inc.",
+            "start": "June 2011",
+            "end": "December 2015",
+            "bullets": [
+              "Optimized transportation networks using Python, reducing logistics costs by $1.5M annually.",
+              "Built Tableau dashboards for real-time supply chain monitoring, improving decision-making by 20%.",
+              "Streamlined procurement processes, reducing supplier lead times by 15 days."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Business Administration",
+            "field": "Supply Chain Management",
+            "school": "NYU Stern School of Business",
+            "year": "2011"
+          },
+          {
+            "degree": "Bachelor of Science",
+            "field": "Industrial Engineering",
+            "school": "Columbia University",
+            "year": "2009"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP), 2012",
+          "Lean Six Sigma Black Belt, 2014"
+        ],
+        "raw_text": "Robert Taylor\n\nSummary\nSeasoned Senior Supply Chain Manager with 12 years of experience in logistics, procurement, and operations optimization. Expert in SAP, SQL, and Python for advanced supply chain analytics and process automation. Proven leader in driving multimillion-dollar cost savings and implementing global supply chain strategies.\n\nSkills\n- SAP, SQL, Python, Tableau\n- Supply Chain Strategy\n- Process Automation\n- Global Logistics\n- Strategic Sourcing\n\nExperience\nSupply Chain Manager, GlobalChain Solutions, New York, USA\nJanuary 2016 - Present\n- Led a team of 10 to implement SAP-based supply chain automation, saving $2M annually.\n- Developed SQL-based analytics for demand forecasting, improving accuracy by 25%.\n- Oversaw global logistics operations, achieving a 98% on-time delivery rate across 20 countries.\n\nSenior Logistics Analyst, TransWorld Inc., New York, USA\nJune 2011 - December 2015\n- Optimized transportation networks using Python, reducing logistics costs by $1.5M annually.\n- Built Tableau dashboards for real-time supply chain monitoring, improving decision-making by 20%.\n- Streamlined procurement processes, reducing supplier lead times by 15 days.\n\nEducation\nMaster of Business Administration, Supply Chain Management, NYU Stern School of Business\nGraduated: May 2011\nBachelor of Science, Industrial Engineering, Columbia University\nGraduated: May 2009\n\nCertifications\n- Certified Supply Chain Professional (CSCP), 2012\n- Lean Six Sigma Black Belt, 2014\n\nProjects\nGlobal Supply Chain Optimization (GlobalChain Solutions)\n- Implemented a Python-based optimization model, saving $3M in logistics costs.\n- Designed a Tableau-based global logistics dashboard, improving visibility by 30%.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 230
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience implementing SAP-based supply chain automation and its impact?",
+          "answer": "As Supply Chain Manager at GlobalChain Solutions, I led a team of 10 to implement SAP-based supply chain automation, resulting in $2M annual savings."
+        },
+        {
+          "question": "How have you utilized SQL for supply chain analytics, and what challenges did you face?",
+          "answer": "I developed SQL-based analytics for demand forecasting at GlobalChain Solutions, improving accuracy by 25%. The main challenge was integrating data from various sources."
+        },
+        {
+          "question": "What role did your MBA in Supply Chain Management play in your career progression?",
+          "answer": "My MBA in Supply Chain Management from NYU Stern School of Business significantly contributed to my career progression by providing advanced knowledge in supply chain strategy and leadership skills."
+        },
+        {
+          "question": "Can you describe a time when you improved logistics efficiency across multiple regions?",
+          "answer": "At GlobalChain Solutions, I oversaw global logistics operations across 20 countries, achieving a 98% on-time delivery rate through strategic planning and process optimization."
+        },
+        {
+          "question": "How do you approach collaboration with cross-functional teams to solve supply chain problems?",
+          "answer": "In my experience, collaboration with cross-functional teams involves regular communication, setting clear objectives, and leveraging each team's expertise to identify and solve supply chain problems effectively."
+        }
+      ]
+    },
+    {
+      "doc_id": "de_mid_sql_analytics_04",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 94,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools (Tableau), and problem-solving, with additional relevant skills like Python and SAP.",
+          "experience": "Candidate has 5 years of relevant experience in supply chain and logistics, exceeding the 3-5 years requirement, with strong evidence of impactful projects.",
+          "education": "Candidate holds both a Bachelor's and Master's degree in Industrial Engineering, which aligns perfectly with the job's educational requirements.",
+          "overall": "Candidate is highly qualified with strong alignment in skills, experience, and education, demonstrating exceptional fit for the role."
+        }
+      },
+      "candidate": {
+        "doc_id": "de_mid_sql_analytics_04",
+        "source_path": "synthetic://de_mid_sql_analytics_04.txt",
+        "name": "Sarah Davis",
+        "contact": {
+          "email": "sarah.davis@example.com",
+          "phone": "+1-555-456-7890",
+          "location": "Atlanta, USA",
+          "linkedin": "https://www.linkedin.com/in/de_mid_sql_analytics_04",
+          "github": "https://github.com/de_mid_sql_analytics_04"
+        },
+        "skills": [
+          "SQL",
+          "Python",
+          "Tableau",
+          "SAP",
+          "Supply Chain Analytics",
+          "Process Optimization",
+          "Demand Forecasting",
+          "Inventory Management"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Analyst",
+            "company": "OmniLogistics",
+            "start": "July 2020",
+            "end": "Present",
+            "bullets": [
+              "Developed SQL-based ETL pipelines to integrate supply chain data, improving reporting accuracy by 20%.",
+              "Created Tableau dashboards for real-time inventory monitoring, reducing stockouts by 15%.",
+              "Led demand forecasting projects, improving order fulfillment rates by 10%."
+            ]
+          },
+          {
+            "title": "Logistics Coordinator",
+            "company": "TransGlobal Inc.",
+            "start": "June 2018",
+            "end": "June 2020",
+            "bullets": [
+              "Optimized transportation routes using Python, saving $50,000 annually in logistics costs.",
+              "Managed SAP-based inventory systems, ensuring 99% stock accuracy.",
+              "Collaborated with procurement teams to streamline supplier contracts, reducing lead times by 7 days."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science",
+            "field": "Industrial Engineering",
+            "school": "Georgia Institute of Technology",
+            "year": "2018"
+          },
+          {
+            "degree": "Bachelor of Science",
+            "field": "Industrial Engineering",
+            "school": "University of Florida",
+            "year": "2016"
+          }
+        ],
+        "certifications": [
+          "Lean Six Sigma Green Belt, 2020",
+          "Certified Supply Chain Professional (CSCP), 2021"
+        ],
+        "raw_text": "Sarah Davis\n\nSummary\nDedicated Mid-Level Supply Chain Analyst with 5 years of experience in logistics and data analytics. Proficient in SQL, Python, and Tableau for optimizing supply chain processes and generating actionable insights. Proven track record in improving operational efficiency and reducing costs through advanced analytics and cross-functional collaboration.\n\nSkills\n- SQL, Python, Tableau, SAP\n- Supply Chain Analytics\n- Process Optimization\n- Demand Forecasting\n- Inventory Management\n\nExperience\nSupply Chain Analyst, OmniLogistics, Atlanta, USA\nJuly 2020 - Present\n- Developed SQL-based ETL pipelines to integrate supply chain data, improving reporting accuracy by 20%.\n- Created Tableau dashboards for real-time inventory monitoring, reducing stockouts by 15%.\n- Led demand forecasting projects, improving order fulfillment rates by 10%.\n\nLogistics Coordinator, TransGlobal Inc., Atlanta, USA\nJune 2018 - June 2020\n- Optimized transportation routes using Python, saving $50,000 annually in logistics costs.\n- Managed SAP-based inventory systems, ensuring 99% stock accuracy.\n- Collaborated with procurement teams to streamline supplier contracts, reducing lead times by 7 days.\n\nEducation\nMaster of Science, Industrial Engineering, Georgia Institute of Technology\nGraduated: May 2018\nBachelor of Science, Industrial Engineering, University of Florida\nGraduated: May 2016\n\nCertifications\n- Lean Six Sigma Green Belt, 2020\n- Certified Supply Chain Professional (CSCP), 2021\n\nProjects\nSupply Chain Optimization (OmniLogistics)\n- Implemented a Python-based demand forecasting model, reducing excess inventory by 12%.\n- Designed a Tableau-based logistics tracking system, improving delivery efficiency by 18%.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 218
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on the SQL-based ETL pipelines you developed at OmniLogistics? What challenges did you face?",
+          "answer": "At OmniLogistics, I developed SQL-based ETL pipelines to integrate supply chain data from various sources, improving reporting accuracy by 20%. The main challenge was handling data inconsistencies across different systems, which I addressed by implementing data validation checks and cleansing procedures within the ETL process."
+        },
+        {
+          "question": "How did you use Python to optimize transportation routes at TransGlobal Inc., and what specific techniques or libraries did you leverage?",
+          "answer": "At TransGlobal Inc., I used Python to optimize transportation routes by analyzing historical shipment data and applying route optimization algorithms using libraries like Pandas and Scipy. This resulted in saving $50,000 annually in logistics costs. Specific techniques included clustering similar deliveries and using linear programming to minimize distance traveled."
+        },
+        {
+          "question": "Your experience with Tableau dashboards is impressive—can you describe the most complex dashboard you created and its impact?",
+          "answer": "One of the most complex Tableau dashboards I created was for real-time inventory monitoring at OmniLogistics. It included interactive filters, drill-down capabilities, and visualizations to track inventory levels across different warehouses. This dashboard reduced stockouts by 15% by enabling proactive inventory management."
+        },
+        {
+          "question": "How has your Lean Six Sigma Green Belt certification influenced your approach to process optimization?",
+          "answer": "My Lean Six Sigma Green Belt certification has significantly influenced my approach to process optimization by providing a structured methodology (DMAIC) to identify and solve problems. It has helped me drive data-driven decision-making and measure the impact of process improvements, such as in demand forecasting projects where I improved order fulfillment rates by 10%."
+        },
+        {
+          "question": "Can you share an example of a time you improved collaboration across teams to solve a supply chain issue?",
+          "answer": "While at TransGlobal Inc., I collaborated with procurement teams to streamline supplier contracts, reducing lead times by 7 days. This involved regular cross-functional meetings to align on goals, sharing data insights on supplier performance, and jointly developing contract negotiation strategies, which improved overall supply chain efficiency."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_mid_analyst_01",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 93,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools, problem-solving, and collaboration, with additional expertise in Python and SAP.",
+          "experience": "Candidate has 4 years of relevant experience, exceeding the minimum requirement of 3 years, with strong achievements in supply chain analysis and optimization.",
+          "education": "Candidate holds a Bachelor's degree in Supply Chain Management, directly matching the requirement.",
+          "overall": "Candidate is highly qualified, meeting or exceeding all criteria with strong alignment to the job requirements."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_mid_analyst_01",
+        "source_path": "synthetic://sc_mid_analyst_01.txt",
+        "name": "Emily Williams",
+        "contact": {
+          "email": "emily.williams@example.com",
+          "phone": "+1-555-987-1234",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/emily-williams-sc",
+          "github": "https://github.com/ewilliams-sc"
+        },
+        "skills": [
+          "SQL",
+          "Python (Pandas)",
+          "Tableau",
+          "Power BI",
+          "SAP",
+          "Inventory Management",
+          "Demand Forecasting",
+          "Logistics Optimization",
+          "Data Modeling",
+          "Process Improvement",
+          "Data Analysis",
+          "Reporting",
+          "Cross-functional Collaboration",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Analyst",
+            "company": "Global Logistics Inc.",
+            "start": "2022",
+            "end": "Present",
+            "bullets": [
+              "Developed and executed SQL queries to analyze large datasets, identifying inefficiencies in transportation that led to a 5% reduction in freight costs.",
+              "Used Tableau to build interactive dashboards for tracking key performance indicators (KPIs) such as on-time delivery and order fill rate.",
+              "Collaborated with the demand planning team to refine forecasting models, improving accuracy by 8% and reducing stockouts."
+            ]
+          },
+          {
+            "title": "Junior Analyst",
+            "company": "Midwest Distribution Co.",
+            "start": "2020",
+            "end": "2022",
+            "bullets": [
+              "Assisted senior analysts with data collection and report generation, supporting inventory optimization projects.",
+              "Created monthly reports on warehouse performance, highlighting trends in picking and packing times."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S.",
+            "field": "Supply Chain Management",
+            "school": "The University of Texas at Austin",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP)"
+        ],
+        "raw_text": "Summary\nData-driven Supply Chain Analyst with 4 years of experience in optimizing logistics and inventory through robust data analysis. Proficient in SQL, Python, and Tableau. Eager to leverage analytical skills to drive efficiencies and cost savings.\n\nSkills\n\n* **Software:** SQL, Python (Pandas), Tableau, Power BI, SAP\n* **Concepts:** Inventory Management, Demand Forecasting, Logistics Optimization, Data Modeling, Process Improvement\n* **Other:** Data Analysis, Reporting, Cross-functional Collaboration, Problem-Solving\n\nExperience\n\n**Supply Chain Analyst** | Global Logistics Inc. | 2022 - Present\n* Developed and executed SQL queries to analyze large datasets, identifying inefficiencies in transportation that led to a 5% reduction in freight costs.\n* Used Tableau to build interactive dashboards for tracking key performance indicators (KPIs) such as on-time delivery and order fill rate.\n* Collaborated with the demand planning team to refine forecasting models, improving accuracy by 8% and reducing stockouts.\n\n**Junior Analyst** | Midwest Distribution Co. | 2020 - 2022\n* Assisted senior analysts with data collection and report generation, supporting inventory optimization projects.\n* Created monthly reports on warehouse performance, highlighting trends in picking and packing times.\n\nEducation\n\n**B.S. in Supply Chain Management** | The University of Texas at Austin | 2020\n\nProjects & Certifications\n\n* **Certification:** Certified Supply Chain Professional (CSCP)\n* **Project:** Built a predictive model in Python to forecast seasonal demand for a consumer goods company, achieving 90% accuracy.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 230
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on how you improved forecasting accuracy by 8% at Global Logistics Inc.?",
+          "answer": "At Global Logistics Inc., I collaborated with the demand planning team to refine forecasting models, which improved accuracy by 8% and reduced stockouts. I contributed by analyzing historical data and providing insights that informed the adjustments to the forecasting models."
+        },
+        {
+          "question": "What is your experience with optimizing inventory levels, and can you share a specific example?",
+          "answer": "In my role at Global Logistics Inc., I supported inventory optimization projects by assisting with data collection and report generation. Although I don't have a specific example of directly optimizing inventory levels, my work laid the groundwork for senior analysts to make informed decisions."
+        },
+        {
+          "question": "How have you used SQL to analyze supply chain processes in your previous roles?",
+          "answer": "At Global Logistics Inc., I developed and executed SQL queries to analyze large datasets related to transportation inefficiencies, which led to a 5% reduction in freight costs. This experience demonstrates my ability to use SQL to analyze supply chain processes."
+        },
+        {
+          "question": "Which data visualization tools do you prefer for tracking KPIs, and why?",
+          "answer": "I prefer using Tableau for tracking KPIs because it allows me to build interactive dashboards. At Global Logistics Inc., I used Tableau to track on-time delivery and order fill rate, making it easier for stakeholders to monitor performance."
+        },
+        {
+          "question": "How do you approach cross-functional collaboration to solve supply chain problems?",
+          "answer": "I approach cross-functional collaboration by working closely with different teams to understand their needs and challenges. For example, at Global Logistics Inc., I collaborated with the demand planning team to refine forecasting models, ensuring that our efforts were aligned and effective in solving supply chain problems."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_mid_logistics_04",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 93,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools, and communication, along with additional relevant skills like Python and Lean Six Sigma.",
+          "experience": "Has 4 years of relevant experience in supply chain and logistics, meeting the 3-5 years requirement, with strong accomplishments in optimization and forecasting.",
+          "education": "Holds a Bachelor's degree in Industrial Engineering, which aligns perfectly with the job's educational requirements.",
+          "overall": "Candidate exceeds expectations in skills, experience, and education, demonstrating strong alignment with the job requirements and additional certifications."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_mid_logistics_04",
+        "source_path": "synthetic://sc_mid_logistics_04.txt",
+        "name": "Sarah Lee",
+        "contact": {
+          "email": "sarah.lee@example.com",
+          "phone": "+1-555-345-6789",
+          "location": "Chicago, USA",
+          "linkedin": "https://www.linkedin.com/in/sarah-lee-sc",
+          "github": "https://github.com/sarah-lee-sc"
+        },
+        "skills": [
+          "SQL",
+          "Python (SciPy, Pandas)",
+          "Tableau",
+          "Power BI",
+          "SAP ERP",
+          "WMS",
+          "Supply Chain Analytics",
+          "Network Optimization",
+          "Transportation Management",
+          "Demand Forecasting",
+          "Inventory Strategy",
+          "Lean Six Sigma",
+          "Data Modeling",
+          "Project Management",
+          "Stakeholder Communication",
+          "Leadership"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Analyst",
+            "company": "Global Operations Inc.",
+            "start": "2022",
+            "end": "Present",
+            "bullets": [
+              "Developed and maintained SQL queries and Python scripts to analyze large datasets, identifying inefficiencies in the transportation network that led to a 7% reduction in freight costs.",
+              "Collaborated with cross-functional teams to implement a new demand forecasting model, improving forecast accuracy by 10% and reducing stockouts by 15%.",
+              "Led a project to optimize warehouse slotting, resulting in a 20% increase in picking efficiency and a reduction in labor costs."
+            ]
+          },
+          {
+            "title": "Logistics Coordinator",
+            "company": "United Transport Solutions",
+            "start": "2020",
+            "end": "2022",
+            "bullets": [
+              "Managed daily transportation operations, including carrier selection, route planning, and shipment tracking.",
+              "Analyzed carrier performance data to negotiate better rates and improve service reliability.",
+              "Implemented a new system for tracking key logistics metrics, providing real-time visibility and enabling proactive problem-solving."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S.",
+            "field": "Industrial Engineering",
+            "school": "Purdue University",
+            "year": "2020"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP)"
+        ],
+        "raw_text": "Summary\nResults-driven Supply Chain Analyst with 4+ years of experience in optimizing logistics networks and improving operational efficiency. Proven ability to leverage data analytics to identify cost-saving opportunities and enhance service levels. Seeking a challenging role to drive strategic initiatives and lead process improvements.\n\nSkills\n\n* **Software:** SQL, Python (SciPy, Pandas), Tableau, Power BI, SAP ERP, WMS\n* **Concepts:** Supply Chain Analytics, Network Optimization, Transportation Management, Demand Forecasting, Inventory Strategy, Lean Six Sigma\n* **Other:** Data Modeling, Project Management, Stakeholder Communication, Leadership\n\nExperience\n\n**Supply Chain Analyst** | Global Operations Inc. | 2022 - Present\n* Developed and maintained SQL queries and Python scripts to analyze large datasets, identifying inefficiencies in the transportation network that led to a 7% reduction in freight costs.\n* Collaborated with cross-functional teams to implement a new demand forecasting model, improving forecast accuracy by 10% and reducing stockouts by 15%.\n* Led a project to optimize warehouse slotting, resulting in a 20% increase in picking efficiency and a reduction in labor costs.\n\n**Logistics Coordinator** | United Transport Solutions | 2020 - 2022\n* Managed daily transportation operations, including carrier selection, route planning, and shipment tracking.\n* Analyzed carrier performance data to negotiate better rates and improve service reliability.\n* Implemented a new system for tracking key logistics metrics, providing real-time visibility and enabling proactive problem-solving.\n\nEducation\n\n**B.S. in Industrial Engineering** | Purdue University | 2020\n\nProjects & Certifications\n\n* **Certification:** Certified Supply Chain Professional (CSCP)\n* **Project:** Developed a comprehensive network optimization model in Python to determine optimal distribution center locations for a new product line.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 264
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience optimizing warehouse slotting and the specific challenges you faced?",
+          "answer": "As a Supply Chain Analyst at Global Operations Inc., I led a project to optimize warehouse slotting, which involved analyzing product demand patterns, storage capacity, and picking routes. The main challenge was balancing the need for increased picking efficiency with existing warehouse constraints. By implementing a data-driven slotting strategy, we achieved a 20% increase in picking efficiency and reduced labor costs."
+        },
+        {
+          "question": "How have you used SQL and Python together to solve complex supply chain problems?",
+          "answer": "In my current role, I regularly use SQL to extract and manipulate large datasets from our ERP system, and then utilize Python (with libraries like Pandas and SciPy) to perform advanced analytics and modeling. For example, I developed a Python script that analyzed transportation network inefficiencies, identifying opportunities that led to a 7% reduction in freight costs."
+        },
+        {
+          "question": "What role did your Certified Supply Chain Professional (CSCP) certification play in your recent projects?",
+          "answer": "My Certified Supply Chain Professional (CSCP) certification has been valuable in recent projects, particularly in understanding and applying best practices in supply chain management. While it hasn't directly influenced specific technical skills, it has enhanced my ability to communicate effectively with stakeholders and understand the broader implications of supply chain decisions."
+        },
+        {
+          "question": "Can you describe a time when you improved collaboration within a cross-functional team to achieve a supply chain goal?",
+          "answer": "While working on a demand forecasting project at Global Operations Inc., I collaborated with cross-functional teams including sales, marketing, and operations. By facilitating regular meetings and ensuring that all stakeholders were aligned with the project's objectives, we were able to implement a new forecasting model that improved forecast accuracy by 10% and reduced stockouts by 15%."
+        },
+        {
+          "question": "How do you approach analyzing and improving forecasting accuracy in supply chain processes?",
+          "answer": "To improve forecasting accuracy, I typically start by analyzing historical data to identify trends and patterns. I then work with relevant teams to understand upcoming changes that could impact demand. Using tools like Python and statistical models, I develop and refine forecasting models. Continuous monitoring and adjustment of these models based on new data and feedback from stakeholders are crucial to maintaining and improving their accuracy."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_senior_analyst_03",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 92,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools, and problem-solving, with additional expertise in predictive modeling and Lean Six Sigma.",
+          "experience": "Exceeds the required 3-5 years of experience in supply chain, logistics, or operations, but some roles are more senior than the analyst level.",
+          "education": "Holds an M.S. in Industrial Engineering, which is directly relevant, and a B.S. in Applied Mathematics, exceeding the bachelor's degree requirement.",
+          "overall": "Candidate is highly qualified with relevant skills, experience, and education, but slightly overqualified for an analyst role."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_senior_analyst_03",
+        "source_path": "synthetic://sc_senior_analyst_03.txt",
+        "name": "Sophia Zhang",
+        "contact": {
+          "email": "sophia.zhang@example.com",
+          "phone": "+1-555-432-1098",
+          "location": "Palo Alto, USA",
+          "linkedin": "https://www.linkedin.com/in/sophia-zhang-sc",
+          "github": "https://github.com/szhang-sc"
+        },
+        "skills": [
+          "SAS",
+          "SQL",
+          "R",
+          "Python",
+          "Tableau",
+          "Microsoft Power BI",
+          "ERP systems (SAP, Oracle)",
+          "Supply Chain Analytics",
+          "Data Science",
+          "Predictive Modeling",
+          "Network Design",
+          "Demand & Supply Planning",
+          "Lean Six Sigma",
+          "Leadership",
+          "Strategic Planning",
+          "Budgeting",
+          "Executive Communication",
+          "Change Management"
+        ],
+        "experience": [
+          {
+            "title": "Director of Supply Chain Analytics",
+            "company": "Apex Global Corp.",
+            "start": "2016",
+            "end": "Present",
+            "bullets": [
+              "Built and led a team of 10 data scientists and analysts, responsible for all supply chain business intelligence and analytical projects.",
+              "Developed a multi-year analytics roadmap that integrated data from disparate systems, providing a single source of truth for the entire organization.",
+              "Led a major network design and simulation project that optimized the distribution network, reducing delivery costs by 18% and improving customer service levels.",
+              "Partnered with C-level executives to define and track strategic KPIs, providing data-driven insights to support major corporate initiatives."
+            ]
+          },
+          {
+            "title": "Lead Data Scientist",
+            "company": "Innovation Labs Inc.",
+            "start": "2012",
+            "end": "2016",
+            "bullets": [
+              "Applied machine learning algorithms to supply chain data, developing predictive models for demand and inventory that reduced forecasting error by 25%.",
+              "Created a new pricing optimization model that increased profit margins by 5%."
+            ]
+          },
+          {
+            "title": "Supply Chain Analyst",
+            "company": "National Logistics Solutions",
+            "start": "2010",
+            "end": "2012",
+            "bullets": [
+              "Performed data analysis on logistics operations, identifying opportunities to improve freight consolidation and reduce costs."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Industrial Engineering",
+            "school": "Stanford University",
+            "year": "2010"
+          },
+          {
+            "degree": "B.S.",
+            "field": "Applied Mathematics",
+            "school": "Carnegie Mellon University",
+            "year": "2008"
+          }
+        ],
+        "certifications": [
+          "Lean Six Sigma Master Black Belt"
+        ],
+        "raw_text": "Summary\nHighly experienced Supply Chain Analytics Leader with 15+ years of experience in data-driven decision-making and business transformation. Expert in building and managing analytics functions from the ground up, with a deep understanding of logistics, procurement, and operations. Proven ability to translate complex data into actionable strategies that drive business growth and operational excellence.\n\nSkills\n\n* **Software:** SAS, SQL, R, Python, Tableau, Microsoft Power BI, ERP systems (SAP, Oracle)\n* **Concepts:** Supply Chain Analytics, Data Science, Predictive Modeling, Network Design, Demand & Supply Planning, Lean Six Sigma\n* **Other:** Leadership, Strategic Planning, Budgeting, Executive Communication, Change Management\n\nExperience\n\n**Director of Supply Chain Analytics** | Apex Global Corp. | 2016 - Present\n* Built and led a team of 10 data scientists and analysts, responsible for all supply chain business intelligence and analytical projects.\n* Developed a multi-year analytics roadmap that integrated data from disparate systems, providing a single source of truth for the entire organization.\n* Led a major network design and simulation project that optimized the distribution network, reducing delivery costs by 18% and improving customer service levels.\n* Partnered with C-level executives to define and track strategic KPIs, providing data-driven insights to support major corporate initiatives.\n\n**Lead Data Scientist** | Innovation Labs Inc. | 2012 - 2016\n* Applied machine learning algorithms to supply chain data, developing predictive models for demand and inventory that reduced forecasting error by 25%.\n* Created a new pricing optimization model that increased profit margins by 5%.\n\n**Supply Chain Analyst** | National Logistics Solutions | 2010 - 2012\n* Performed data analysis on logistics operations, identifying opportunities to improve freight consolidation and reduce costs.\n\nEducation\n\n**M.S. in Industrial Engineering** | Stanford University | 2010\n\n**B.S. in Applied Mathematics** | Carnegie Mellon University | 2008\n\nProjects & Certifications\n\n* **Certification:** Lean Six Sigma Master Black Belt\n* **Project:** Designed and implemented a new supply chain control tower solution, providing real-time visibility and enabling proactive responses to disruptions.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 328
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on the network design project you led at Apex Global Corp. and how it reduced delivery costs by 18%?",
+          "answer": "At Apex Global Corp., I led a major network design and simulation project that optimized the distribution network. The project involved analyzing existing logistics operations, modeling different network configurations, and simulating various 'what-if' scenarios to identify the most efficient distribution strategy. By redesigning the network, we were able to reduce delivery costs by 18% and improve customer service levels."
+        },
+        {
+          "question": "How have you utilized SQL and data visualization tools like Tableau or Power BI in your previous roles?",
+          "answer": "In my previous roles, I've extensively used SQL for data extraction and manipulation, and data visualization tools like Tableau and Power BI to present insights to stakeholders. For example, at Innovation Labs Inc., I used SQL to query large datasets and Tableau to create interactive dashboards that helped track key supply chain metrics and identify areas for improvement."
+        },
+        {
+          "question": "Your Lean Six Sigma Master Black Belt is impressive—can you share an example of how you've applied these principles to optimize supply chain processes?",
+          "answer": "As a Lean Six Sigma Master Black Belt, I've applied these principles to various supply chain optimization projects. One example is a project at Apex Global Corp. where we used DMAIC (Define, Measure, Analyze, Improve, Control) to identify bottlenecks in our logistics operations and implement process improvements that significantly reduced costs and improved efficiency."
+        },
+        {
+          "question": "What strategies have you used to enhance collaboration between supply chain teams and C-level executives?",
+          "answer": "To enhance collaboration between supply chain teams and C-level executives, I've focused on developing clear, data-driven insights and presenting them in a way that's easily understandable by non-technical stakeholders. At Apex Global Corp., I worked closely with C-level executives to define and track strategic KPIs, providing regular updates and insights that supported major corporate initiatives."
+        },
+        {
+          "question": "How did you approach integrating data from disparate systems to create a single source of truth at Apex Global Corp.?",
+          "answer": "To integrate data from disparate systems at Apex Global Corp., I developed a multi-year analytics roadmap that involved identifying key data sources, designing a data warehousing solution, and implementing ETL processes to consolidate data into a single repository. This provided a unified view of our supply chain operations and enabled more accurate analytics and decision-making."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_mid_analyst_03",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 92,
+        "reasons": {
+          "skills": "Candidate possesses nearly all required skills, including SQL, data analysis, and data visualization tools like Tableau.",
+          "experience": "Has 4 years of relevant experience in supply chain roles, meeting the 3-5 years requirement.",
+          "education": "Holds a Bachelor's degree in Supply Chain Management, directly matching the requirement.",
+          "overall": "Strong match for the role with relevant skills, experience, and education; minor deduction for lack of explicit mention of collaboration tools."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_mid_analyst_03",
+        "source_path": "synthetic://sc_mid_analyst_03.txt",
+        "name": "Jessica Lee",
+        "contact": {
+          "email": "jessica.lee@example.com",
+          "phone": "+1-555-543-2109",
+          "location": "Detroit, USA",
+          "linkedin": "https://www.linkedin.com/in/jessica-lee-scm",
+          "github": "https://github.com/jlee-scm"
+        },
+        "skills": [
+          "SAP ERP",
+          "Oracle",
+          "Tableau",
+          "Microsoft Excel",
+          "SQL",
+          "Demand Planning",
+          "Inventory Control",
+          "S&OP",
+          "Warehouse Operations",
+          "Logistics Coordination",
+          "Data Analysis",
+          "Reporting",
+          "Forecasting",
+          "Stakeholder Communication"
+        ],
+        "experience": [
+          {
+            "title": "Demand Planner",
+            "company": "Consumer Goods Corp.",
+            "start": "2021",
+            "end": "Present",
+            "bullets": [
+              "Managed demand forecasts for a portfolio of products, leading to a 10% improvement in forecast accuracy and a 15% reduction in inventory carrying costs.",
+              "Collaborated with sales, marketing, and finance teams to facilitate the Sales & Operations Planning (S&OP) process.",
+              "Utilized SAP and Excel to analyze historical sales data and market trends, informing inventory and production decisions."
+            ]
+          },
+          {
+            "title": "Inventory Analyst",
+            "company": "Retail Distribution Solutions",
+            "start": "2019",
+            "end": "2021",
+            "bullets": [
+              "Monitored inventory levels across multiple warehouses, ensuring optimal stock levels to meet customer demand.",
+              "Conducted root cause analysis on inventory discrepancies, improving inventory accuracy from 97% to 99%.",
+              "Generated weekly reports on inventory turnover and obsolescence for management review."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S.",
+            "field": "Business Administration (Supply Chain Management)",
+            "school": "University of Michigan",
+            "year": "2019"
+          }
+        ],
+        "certifications": [
+          "Certified in Production and Inventory Management (CPIM)"
+        ],
+        "raw_text": "Summary\nProactive Supply Chain Professional with 6 years of experience, specializing in demand planning and inventory management. Adept at using ERP systems and data visualization tools to streamline processes and improve forecasting accuracy. Seeking a role to apply expertise in a dynamic, growth-oriented environment.\n\nSkills\n\n* **Software:** SAP ERP, Oracle, Tableau, Microsoft Excel, SQL\n* **Concepts:** Demand Planning, Inventory Control, S&OP, Warehouse Operations, Logistics Coordination\n* **Other:** Data Analysis, Reporting, Forecasting, Stakeholder Communication\n\nExperience\n\n**Demand Planner** | Consumer Goods Corp. | 2021 - Present\n* Managed demand forecasts for a portfolio of products, leading to a 10% improvement in forecast accuracy and a 15% reduction in inventory carrying costs.\n* Collaborated with sales, marketing, and finance teams to facilitate the Sales & Operations Planning (S&OP) process.\n* Utilized SAP and Excel to analyze historical sales data and market trends, informing inventory and production decisions.\n\n**Inventory Analyst** | Retail Distribution Solutions | 2019 - 2021\n* Monitored inventory levels across multiple warehouses, ensuring optimal stock levels to meet customer demand.\n* Conducted root cause analysis on inventory discrepancies, improving inventory accuracy from 97% to 99%.\n* Generated weekly reports on inventory turnover and obsolescence for management review.\n\nEducation\n\n**B.S. in Business Administration (Supply Chain Management)** | University of Michigan | 2019\n\nProjects & Certifications\n\n* **Certification:** Certified in Production and Inventory Management (CPIM)\n* **Project:** Developed a dashboard in Tableau to visualize inventory health metrics, providing a single source of truth for the entire supply chain team.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 246
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience improving forecast accuracy and inventory carrying costs in your role as Demand Planner?",
+          "answer": "As Demand Planner at Consumer Goods Corp., I managed demand forecasts for a portfolio of products, achieving a 10% improvement in forecast accuracy and a 15% reduction in inventory carrying costs by analyzing historical sales data and market trends using SAP and Excel."
+        },
+        {
+          "question": "How proficient are you in using SQL for data analysis and reporting in supply chain operations?",
+          "answer": "I am proficient in using SQL for data analysis and reporting in supply chain operations, as indicated by its inclusion in my skill set and my experience generating reports."
+        },
+        {
+          "question": "What challenges did you face while optimizing inventory levels across multiple warehouses, and how did you address them?",
+          "answer": "While monitoring inventory levels across multiple warehouses at Retail Distribution Solutions, I faced inventory discrepancies. I addressed them by conducting root cause analysis, which improved inventory accuracy from 97% to 99%."
+        },
+        {
+          "question": "How has your CPIM certification influenced your approach to supply chain management tasks?",
+          "answer": "My CPIM certification has enhanced my understanding of supply chain principles and best practices, influencing my approach to tasks such as demand planning and inventory management by providing a structured framework."
+        },
+        {
+          "question": "Can you describe a time when you collaborated with cross-functional teams to solve a supply chain problem? What was the outcome?",
+          "answer": "At Consumer Goods Corp., I collaborated with sales, marketing, and finance teams to facilitate the Sales & Operations Planning (S&OP) process, resulting in improved forecast accuracy and inventory management through better cross-functional alignment."
+        }
+      ]
+    },
+    {
+      "doc_id": "de_mid_logistics_06",
+      "scores": {
+        "skills_score": 95,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 92,
+        "reasons": {
+          "skills": "Candidate possesses all required skills, including SQL, data visualization tools (Tableau), and collaboration, with additional relevant skills like Python and SAP.",
+          "experience": "Candidate has 5 years of relevant experience in supply chain and logistics, exceeding the minimum requirement but lacks explicit mention of improving forecasting accuracy.",
+          "education": "Candidate holds both a Bachelor's and Master's degree in Industrial Engineering, which exceeds the requirement for a Bachelor's degree in a related field.",
+          "overall": "Candidate is highly qualified with strong skills, relevant experience, and excellent education, but minor gaps in explicitly addressing forecasting accuracy."
+        }
+      },
+      "candidate": {
+        "doc_id": "de_mid_logistics_06",
+        "source_path": "synthetic://de_mid_logistics_06.txt",
+        "name": "Laura Chen",
+        "contact": {
+          "email": "laura.chen@example.com",
+          "phone": "+1-555-678-9012",
+          "location": "Houston, USA",
+          "linkedin": "https://www.linkedin.com/in/de_mid_logistics_06",
+          "github": "https://github.com/de_mid_logistics_06"
+        },
+        "skills": [
+          "SQL",
+          "Tableau",
+          "SAP",
+          "Python",
+          "Logistics Optimization",
+          "Supply Chain Analytics",
+          "Workflow Automation",
+          "Team Collaboration"
+        ],
+        "experience": [
+          {
+            "title": "Logistics Analyst",
+            "company": "SwiftFreight Solutions",
+            "start": "September 2019",
+            "end": "Present",
+            "bullets": [
+              "Designed SQL queries to analyze transportation data, reducing delivery delays by 12%.",
+              "Built Tableau dashboards for logistics performance tracking, improving visibility by 18%.",
+              "Led a team of 4 to implement SAP-based workflow automation, saving 10 hours weekly."
+            ]
+          },
+          {
+            "title": "Supply Chain Coordinator",
+            "company": "MegaTrans Inc.",
+            "start": "June 2018",
+            "end": "August 2019",
+            "bullets": [
+              "Optimized warehouse operations using Python scripts, reducing picking errors by 10%.",
+              "Coordinated logistics for 5 facilities, maintaining a 97% on-time delivery rate.",
+              "Supported demand forecasting, improving inventory turnover by 8%."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "Master of Science",
+            "field": "Industrial Engineering",
+            "school": "Texas A&M University",
+            "year": "2018"
+          },
+          {
+            "degree": "Bachelor of Science",
+            "field": "Industrial Engineering",
+            "school": "University of Houston",
+            "year": "2016"
+          }
+        ],
+        "certifications": [
+          "Certified Supply Chain Professional (CSCP), 2020",
+          "Lean Six Sigma Green Belt, 2019"
+        ],
+        "raw_text": "Laura Chen\n\nSummary\nProactive Mid-Level Logistics Analyst with 5 years of experience in supply chain operations and process optimization. Proficient in SQL, Tableau, and SAP for logistics analytics and workflow automation. Recognized for improving delivery efficiency and reducing operational costs through innovative solutions and team leadership.\n\nSkills\n- SQL, Tableau, SAP, Python\n- Logistics Optimization\n- Supply Chain Analytics\n- Workflow Automation\n- Team Collaboration\n\nExperience\nLogistics Analyst, SwiftFreight Solutions, Houston, USA\nSeptember 2019 - Present\n- Designed SQL queries to analyze transportation data, reducing delivery delays by 12%.\n- Built Tableau dashboards for logistics performance tracking, improving visibility by 18%.\n- Led a team of 4 to implement SAP-based workflow automation, saving 10 hours weekly.\n\nSupply Chain Coordinator, MegaTrans Inc., Houston, USA\nJune 2018 - August 2019\n- Optimized warehouse operations using Python scripts, reducing picking errors by 10%.\n- Coordinated logistics for 5 facilities, maintaining a 97% on-time delivery rate.\n- Supported demand forecasting, improving inventory turnover by 8%.\n\nEducation\nMaster of Science, Industrial Engineering, Texas A&M University\nGraduated: May 2018\nBachelor of Science, Industrial Engineering, University of Houston\nGraduated: May 2016\n\nCertifications\n- Certified Supply Chain Professional (CSCP), 2020\n- Lean Six Sigma Green Belt, 2019\n\nProjects\nLogistics Automation Project (SwiftFreight Solutions)\n- Developed a Tableau-based logistics monitoring system, reducing reporting time by 15%.\n- Implemented a Python-based route optimization tool, saving $60,000 annually.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 213
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on how you used SQL to reduce delivery delays by 12% at SwiftFreight Solutions?",
+          "answer": "At SwiftFreight Solutions, I designed SQL queries to analyze transportation data, identifying bottlenecks and inefficiencies. By analyzing historical data and current trends, I pinpointed areas causing delays and proposed corrective actions, which resulted in a 12% reduction in delivery delays."
+        },
+        {
+          "question": "What specific features of Tableau did you leverage to improve logistics performance tracking by 18%?",
+          "answer": "I leveraged Tableau's data visualization capabilities to create interactive dashboards for logistics performance tracking. By visualizing key performance indicators (KPIs) such as on-time delivery rates and transit times, I improved visibility into logistics operations by 18%, enabling more informed decision-making."
+        },
+        {
+          "question": "How has your Master's degree in Industrial Engineering contributed to your approach to supply chain analytics?",
+          "answer": "My Master's degree in Industrial Engineering provided a strong foundation in analytical and problem-solving skills, which I apply to supply chain analytics. The program taught me to optimize complex systems and analyze data-driven insights, skills that I have used to improve logistics efficiency and supply chain operations."
+        },
+        {
+          "question": "Can you describe a time when you faced a significant logistics challenge and how you resolved it?",
+          "answer": "In my role at MegaTrans Inc., I faced a challenge in optimizing warehouse operations. I developed Python scripts to streamline processes, which reduced picking errors by 10%. This experience demonstrated my ability to analyze problems, develop solutions, and implement them effectively."
+        },
+        {
+          "question": "How do you prioritize tasks when managing multiple facilities or projects simultaneously?",
+          "answer": "When managing multiple facilities or projects, I prioritize tasks based on urgency and impact. I use tools like project management software to track progress and deadlines. By focusing on high-priority tasks and delegating effectively, I ensure that all projects are completed efficiently and on time."
+        }
+      ]
+    },
+    {
+      "doc_id": "sc_junior_analyst_01",
+      "scores": {
+        "skills_score": 75,
+        "experience_score": 40,
+        "education_score": 90,
+        "overall_score": 60,
+        "reasons": {
+          "skills": "Candidate possesses relevant skills like SQL, data analysis, and Tableau, but lacks advanced proficiency and direct professional application in some areas.",
+          "experience": "Limited professional experience with only an internship; lacks the required 3-5 years in supply chain, logistics, or operations.",
+          "education": "Meets the educational requirement with a Bachelor's degree in Industrial Engineering from a reputable university.",
+          "overall": "Strong educational background and foundational skills, but insufficient professional experience for the role."
+        }
+      },
+      "candidate": {
+        "doc_id": "sc_junior_analyst_01",
+        "source_path": "synthetic://sc_junior_analyst_01.txt",
+        "name": "David Chen",
+        "contact": {
+          "email": "david.chen@example.com",
+          "phone": "+1-555-123-4567",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/david-chen-ie",
+          "github": "https://github.com/dchen-ie"
+        },
+        "skills": [
+          "Microsoft Excel",
+          "Tableau",
+          "Python",
+          "SQL",
+          "Supply Chain Analytics",
+          "Inventory Management",
+          "Logistics",
+          "Operations Research",
+          "Data Analysis",
+          "Problem-Solving",
+          "Team Collaboration",
+          "Report Generation"
+        ],
+        "experience": [
+          {
+            "title": "Supply Chain Intern",
+            "company": "Tech Solutions Inc.",
+            "start": "Summer 2025",
+            "end": null,
+            "bullets": [
+              "Assisted in analyzing transportation data to identify cost-saving opportunities, which led to a proposed route optimization strategy.",
+              "Used Excel to build a model for analyzing inventory levels and forecasting demand.",
+              "Collaborated with the logistics team to track shipments and generate daily performance reports."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "B.S.",
+            "field": "Industrial Engineering",
+            "school": "The University of Texas at Austin",
+            "year": "2025"
+          }
+        ],
+        "certifications": [
+          "Lean Six Sigma Yellow Belt"
+        ],
+        "raw_text": "Summary\nRecent graduate with a B.S. in Industrial Engineering, specializing in data analysis and process improvement. Possesses a strong academic foundation in supply chain principles and a desire to apply statistical skills to real-world problems. Eager to contribute to a dynamic team and grow professionally.\n\nSkills\n\n* **Software:** Microsoft Excel, Tableau, Python, SQL\n* **Concepts:** Supply Chain Analytics, Inventory Management, Logistics, Operations Research\n* **Other:** Data Analysis, Problem-Solving, Team Collaboration, Report Generation\n\nExperience\n\n**Supply Chain Intern** | Tech Solutions Inc. | Summer 2025\n* Assisted in analyzing transportation data to identify cost-saving opportunities, which led to a proposed route optimization strategy.\n* Used Excel to build a model for analyzing inventory levels and forecasting demand.\n* Collaborated with the logistics team to track shipments and generate daily performance reports.\n\nEducation\n\n**B.S. in Industrial Engineering** | The University of Texas at Austin | 2025\n\nProjects & Certifications\n\n* **Academic Project:** Developed a simulation model for a distribution center to optimize picking routes, leading to a 10% reduction in average fulfillment time.\n* **Certification:** Lean Six Sigma Yellow Belt",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 145
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience analyzing transportation data during your internship and how it relates to supply chain optimization?",
+          "answer": "During my internship at Tech Solutions Inc., I assisted in analyzing transportation data to identify cost-saving opportunities. This involved examining existing routes and proposing a route optimization strategy. Although I don't have extensive experience, this project gave me a foundational understanding of how data analysis can lead to supply chain optimization."
+        },
+        {
+          "question": "How proficient are you with SQL, and can you provide an example of a project where you used it for data analysis?",
+          "answer": "I have basic proficiency in SQL, having used it for data analysis in academic projects. While I don't have a specific project to reference from my internship, I've used SQL in academic settings to query databases and analyze data. My experience is limited but I'm eager to further develop this skill."
+        },
+        {
+          "question": "What experience do you have with data visualization tools like Tableau, and how have you used them to communicate insights?",
+          "answer": "I have experience with Tableau, having used it to visualize data in various academic projects. During my internship, I didn't directly use Tableau, but I've utilized it in other contexts to communicate insights effectively. I understand its potential for presenting complex data in an understandable format."
+        },
+        {
+          "question": "How did your academic project on optimizing picking routes prepare you for analyzing and improving supply chain processes in a professional setting?",
+          "answer": "My academic project involved developing a simulation model for a distribution center to optimize picking routes. This project resulted in a 10% reduction in average fulfillment time. It taught me how to apply analytical skills to improve supply chain processes and gave me hands-on experience with simulation modeling."
+        },
+        {
+          "question": "What strategies would you use to enhance forecasting accuracy in a supply chain role?",
+          "answer": "To enhance forecasting accuracy, I would employ strategies such as using historical data to identify trends, implementing statistical forecasting models, and regularly updating models to reflect changes in demand or supply. I would also collaborate with cross-functional teams to ensure that forecasting is aligned with business objectives and adjust strategies as needed based on performance metrics."
+        }
+      ]
+    }
+  ]
+}

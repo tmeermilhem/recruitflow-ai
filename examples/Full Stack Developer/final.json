@@ -1,0 +1,1275 @@
+{
+  "job": {
+    "title": "Full Stack Developer",
+    "required_skills": [
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Python/Django",
+      "Ruby on Rails",
+      "Java/Spring",
+      "RESTful APIs",
+      "relational databases",
+      "NoSQL databases",
+      "Git",
+      "problem-solving",
+      "communication",
+      "Agile/Scrum"
+    ],
+    "experience_required": "3-5 years",
+    "education_required": "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+    "extra_attributes": [
+      "collaborative spirit"
+    ]
+  },
+  "top": [
+    {
+      "doc_id": "fsd_senior_05",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 95,
+        "education_score": 90,
+        "overall_score": 90,
+        "reasons": {
+          "skills": "Strong match with most required skills, but lacks direct experience with Angular and Vue.js.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of relevant experience, including leadership and microservices expertise.",
+          "education": "Holds an M.S. in Computer Science, which surpasses the bachelor's degree requirement.",
+          "overall": "Highly qualified candidate with minor gaps in specific skills (Angular/Vue.js) but strong overall alignment with the job requirements."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_05",
+        "source_path": "synthetic://fsd_senior_05.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and how you've used it in your projects?",
+          "answer": "I've used React in several projects, including a high-traffic web application at Tech Innovations, where I developed and maintained both backend and frontend services using React and Java/Spring."
+        },
+        {
+          "question": "What challenges have you faced when optimizing application performance, and how did you address them?",
+          "answer": "At Global Software Solutions, I optimized an application's performance, reducing latency by 30%. I achieved this through performance tuning and system efficiency improvements."
+        },
+        {
+          "question": "Do you have hands-on experience with Angular or Vue.js, and if not, how quickly could you ramp up on these frameworks?",
+          "answer": "While I don't have direct experience with Angular or Vue.js, my background in React and other frameworks like Java/Spring and Node.js/Express.js suggests I could quickly adapt to these technologies."
+        },
+        {
+          "question": "How has your background in microservices architecture influenced your approach to full-stack development?",
+          "answer": "My experience with microservices architecture at Global Software Solutions has taught me the importance of scalability and flexibility in full-stack development, influencing my approach to designing robust and maintainable systems."
+        },
+        {
+          "question": "Can you describe how you've applied Agile/Scrum methodologies in your previous roles?",
+          "answer": "In my previous roles, I've applied Agile/Scrum methodologies by participating in all phases of the software development lifecycle, including sprint planning, daily stand-ups, and retrospectives, ensuring iterative and collaborative development processes."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_03",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 95,
+        "education_score": 100,
+        "overall_score": 90,
+        "reasons": {
+          "skills": "Strong in React, Python/Django, RESTful APIs, Git, Agile/Scrum, and databases, but lacks hands-on experience with Angular, Vue.js, Ruby on Rails, and Java/Spring.",
+          "experience": "12+ years of relevant experience, exceeding the 3-5 years required, with leadership and system optimization achievements.",
+          "education": "Holds an M.S. in Software Engineering, exceeding the Bachelor's degree requirement.",
+          "overall": "Highly qualified with strong experience and education, but minor gaps in specific required frameworks slightly lower the skills score."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_03",
+        "source_path": "synthetic://fsd_senior_03.txt",
+        "name": "James Rodriguez",
+        "contact": {
+          "email": "james.rodriguez@example.com",
+          "phone": "+1-555-321-4567",
+          "location": "Pittsburgh, USA",
+          "linkedin": "https://www.linkedin.com/in/james-rodriguez-fsd",
+          "github": "https://github.com/jrodriguez-fsd"
+        },
+        "skills": [
+          "JavaScript",
+          "React",
+          "Python",
+          "Django",
+          "Microservices",
+          "RESTful APIs",
+          "Messaging (Kafka, RabbitMQ)",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "SQL",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "Design Patterns",
+          "Leadership",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Tech Innovations Group",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led the architectural design and development of a new distributed payment processing system, handling over $1B in transactions annually.",
+              "Optimized the system's performance, reducing transaction latency by 40% through code refactoring and database tuning.",
+              "Managed a team of 7 developers, overseeing all aspects of the software development lifecycle, from code reviews to deployment.",
+              "Introduced and implemented new technologies and design patterns to improve system scalability and maintainability."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Financial Tech Co.",
+            "start": "2012",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained mission-critical applications for a high-frequency trading platform using Python/Django and React.",
+              "Designed and implemented new features, ensuring the system met strict performance and security requirements.",
+              "Mentored junior developers and participated in all technical design discussions."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2010",
+            "end": "2012",
+            "bullets": [
+              "Contributed to the development of a new enterprise application, gaining hands-on experience with Python and Django."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Software Engineering",
+            "school": "Carnegie Mellon University",
+            "year": "2010"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nPrincipal Full Stack Developer with 12+ years of experience in designing, developing, and leading complex software projects. Expertise in distributed systems, cloud computing, and performance optimization. Proven ability to translate business requirements into robust, scalable, and efficient technical solutions.\n\nSkills\n\n* **Languages & Frameworks:** JavaScript, React, Python, Django, Microservices, RESTful APIs, Messaging (Kafka, RabbitMQ)\n* **Databases:** PostgreSQL, MySQL, MongoDB, SQL\n* **Tools & Concepts:** Git, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum, Design Patterns\n* **Other:** Leadership, System Architecture, Performance Tuning, Mentorship\n\nExperience\n\n**Principal Full Stack Developer** | Tech Innovations Group | 2017 - Present\n* Led the architectural design and development of a new distributed payment processing system, handling over $1B in transactions annually.\n* Optimized the system's performance, reducing transaction latency by 40% through code refactoring and database tuning.\n* Managed a team of 7 developers, overseeing all aspects of the software development lifecycle, from code reviews to deployment.\n* Introduced and implemented new technologies and design patterns to improve system scalability and maintainability.\n\n**Senior Full Stack Developer** | Financial Tech Co. | 2012 - 2017\n* Developed and maintained mission-critical applications for a high-frequency trading platform using Python/Django and React.\n* Designed and implemented new features, ensuring the system met strict performance and security requirements.\n* Mentored junior developers and participated in all technical design discussions.\n\n**Full Stack Developer** | Global Software Solutions | 2010 - 2012\n* Contributed to the development of a new enterprise application, gaining hands-on experience with Python and Django.\n\nEducation\n\n**M.S. in Software Engineering** | Carnegie Mellon University | 2010\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Developed a distributed messaging system using Kafka and Python, which improved communication between different microservices.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 310
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience leading the development of the distributed payment processing system at Tech Innovations Group?",
+          "answer": "At Tech Innovations Group, I led the architectural design and development of a distributed payment processing system handling over $1B in transactions annually. I managed a team of 7 developers and introduced new technologies to improve system scalability and maintainability."
+        },
+        {
+          "question": "How would you compare your proficiency in React versus other front-end frameworks like Angular or Vue.js?",
+          "answer": "I've primarily worked with React. While I'm familiar with Angular and Vue.js conceptually, my hands-on experience is mostly with React. I can adapt to other frameworks, but React is where my expertise lies."
+        },
+        {
+          "question": "What challenges did you face optimizing the performance of systems, and how did you achieve the 40% latency reduction you mentioned?",
+          "answer": "Optimizing the payment processing system was challenging due to its complexity and scale. I achieved a 40% latency reduction through code refactoring and database tuning, focusing on performance bottlenecks and implementing more efficient data handling and query optimization."
+        },
+        {
+          "question": "How has your M.S. in Software Engineering from Carnegie Mellon influenced your approach to system architecture and design?",
+          "answer": "My M.S. in Software Engineering from Carnegie Mellon provided a strong foundation in software design principles and system architecture. It influenced my approach to designing robust, scalable systems and informed my decisions on technical debt and system maintainability."
+        },
+        {
+          "question": "Can you describe a time when you resolved a conflict or facilitated collaboration within your development team?",
+          "answer": "In my previous role, I managed a team and facilitated collaboration through regular code reviews and open discussions. While I don't recall a specific conflict, I ensured that all team members were aligned with project goals and encouraged feedback to resolve any issues promptly."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_15",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 95,
+        "education_score": 100,
+        "overall_score": 90,
+        "reasons": {
+          "skills": "Strong in React, Node.js, Java/Spring, and databases, but lacks experience in Python/Django, Ruby on Rails, and Vue.js.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of relevant experience, including leadership roles and Agile/Scrum.",
+          "education": "Holds an M.S. in Computer Science, exceeding the Bachelor's degree requirement.",
+          "overall": "Highly qualified with minor skill gaps in specific frameworks but strong overall alignment with the role."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_15",
+        "source_path": "synthetic://fsd_senior_15.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and Node.js in your recent projects?",
+          "answer": "In my current role as Principal Full Stack Developer at Global Software Solutions, I've led a team in designing and developing a full-stack application with a microservices-based architecture, utilizing React for the frontend. We've also used Node.js and Express.js in previous projects, such as at Startup Innovators, where I contributed to developing a new web application."
+        },
+        {
+          "question": "How would you compare your proficiency in Java/Spring Boot versus Python/Django or Ruby on Rails?",
+          "answer": "I have more experience with Java/Spring Boot, having used it extensively in my recent projects, such as at Tech Innovations where I developed backend services for a high-traffic web application. While I'm proficient in Java/Spring, my experience with Python/Django or Ruby on Rails is limited; however, I'm familiar with the concepts and could adapt quickly if needed."
+        },
+        {
+          "question": "Do you have experience working with Vue.js, or would you be open to learning it for this role?",
+          "answer": "I don't have direct experience with Vue.js, but I'm open to learning it. My experience with React and other frontend frameworks has given me a solid foundation in frontend development principles, which I believe are transferable to Vue.js."
+        },
+        {
+          "question": "What strategies have you used to optimize application performance, as mentioned in your current role?",
+          "answer": "In my current role, I've optimized application performance by reducing latency by 30% and improving overall system efficiency. I achieved this through performance tuning and optimizing the application's architecture. I've also implemented robust CI/CD pipelines to improve deployment efficiency."
+        },
+        {
+          "question": "Can you describe your approach to mentoring junior developers and fostering a collaborative team environment?",
+          "answer": "As a Principal Full Stack Developer, I've mentored junior and mid-level developers, providing technical guidance and conducting code reviews. I believe in fostering a collaborative environment by being approachable, sharing knowledge, and encouraging open communication among team members."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_07",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 95,
+        "education_score": 100,
+        "overall_score": 90,
+        "reasons": {
+          "skills": "Strong in most required skills but lacks explicit experience with Angular, Vue.js, Python/Django, and Ruby on Rails.",
+          "experience": "Exceeds the required 3-5 years with 18+ years of relevant experience, including leadership roles.",
+          "education": "Holds an M.S. in Computer Science, which surpasses the Bachelor's degree requirement.",
+          "overall": "Highly qualified with minor gaps in specific skills; extensive experience and advanced education make up for it."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_07",
+        "source_path": "synthetic://fsd_senior_07.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "RESTful APIs",
+          "Messaging (Kafka, RabbitMQ)",
+          "Oracle",
+          "MySQL",
+          "Cassandra",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led the architectural design and development of a new microservices-based application for the telecommunications industry.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nSeasoned Principal Full Stack Developer with 18+ years of experience in designing and developing large-scale, complex enterprise applications. Expertise in software architecture, distributed systems, and performance optimization. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices, RESTful APIs, Messaging (Kafka, RabbitMQ)\n* **Databases:** Oracle, MySQL, Cassandra, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led the architectural design and development of a new microservices-based application for the telecommunications industry.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 328
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and how you've used it in your recent projects?",
+          "answer": "I've used React in several projects, including a high-traffic web application at Tech Innovations, where I developed and maintained both backend and frontend services. My experience with React involves creating reusable components, managing state, and optimizing performance."
+        },
+        {
+          "question": "You have experience with Java/Spring Boot and Node.js. Can you discuss how you decide which backend framework to use for a project?",
+          "answer": "The choice between Java/Spring Boot and Node.js depends on the project's requirements. For complex, enterprise-level applications with multiple integrations, I prefer Java/Spring Boot due to its robustness and scalability. For real-time applications or those requiring rapid development, Node.js is more suitable."
+        },
+        {
+          "question": "What challenges did you face while optimizing the microservices-based application at Global Software Solutions, and how did you overcome them?",
+          "answer": "At Global Software Solutions, optimizing the microservices-based application involved identifying bottlenecks and improving inter-service communication. I achieved a 30% reduction in latency by implementing efficient service discovery and load balancing, and by optimizing database queries."
+        },
+        {
+          "question": "Can you provide an example of how you mentored junior developers and the impact it had on the team?",
+          "answer": "As a Principal Full Stack Developer at Global Software Solutions, I mentored junior and mid-level developers through code reviews, technical guidance, and best practices sharing. This mentorship improved the team's overall code quality and reduced bugs, leading to more efficient development cycles."
+        },
+        {
+          "question": "How do you approach integrating relational and NoSQL databases in a single application?",
+          "answer": "When integrating relational and NoSQL databases, I assess the data structure and application needs. For instance, using Oracle for transactional data and Cassandra for handling large volumes of semi-structured data. I ensure data consistency through careful schema design and data synchronization mechanisms."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_01",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 88,
+        "reasons": {
+          "skills": "Strong in React, Node.js, Python/Django, RESTful APIs, and databases, but lacks direct experience with Angular, Vue.js, Ruby on Rails, and Java/Spring.",
+          "experience": "10+ years of relevant experience, exceeding the 3-5 years required, with leadership and mentoring roles.",
+          "education": "Holds an M.S. in Computer Science, exceeding the Bachelor's degree requirement.",
+          "overall": "Highly qualified with strong skills, experience, and education, but missing some specific technologies listed in the job description."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_01",
+        "source_path": "synthetic://fsd_senior_01.txt",
+        "name": "Daniel Taylor",
+        "contact": {
+          "email": "daniel.taylor@example.com",
+          "phone": "+1-555-543-2109",
+          "location": "Palo Alto, USA",
+          "linkedin": "https://www.linkedin.com/in/daniel-taylor-fsd",
+          "github": "https://github.com/dtaylor-fsd"
+        },
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "HTML",
+          "CSS",
+          "Python",
+          "Django",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "SQL",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Microservices",
+          "RESTful APIs",
+          "Agile/Scrum",
+          "Leadership",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship"
+        ],
+        "experience": [
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Global Banking Corp.",
+            "start": "2018",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 5 developers in the design and development of a new full-stack banking platform on AWS.",
+              "Architected and implemented a robust CI/CD pipeline using Jenkins, Docker, and Kubernetes, reducing deployment time by 60%.",
+              "Optimized application performance and database queries, resulting in a 30% reduction in latency for mission-critical transactions.",
+              "Mentored junior and mid-level developers on best practices in full-stack development and system architecture."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Financial Tech Innovations",
+            "start": "2014",
+            "end": "2018",
+            "bullets": [
+              "Designed and developed backend and frontend services for a high-traffic trading platform using Python/Django and React.",
+              "Implemented new features and resolved complex bugs, ensuring the stability and security of the platform.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Junior Full Stack Developer",
+            "company": "Enterprise Solutions Co.",
+            "start": "2013",
+            "end": "2014",
+            "bullets": [
+              "Contributed to the backend development of a new enterprise application, gaining hands-on experience with Python and Django.",
+              "Assisted in writing unit tests and debugging code."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "Stanford University",
+            "year": "2013"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Associate"
+        ],
+        "raw_text": "Summary\nSenior Full Stack Developer with 10+ years of experience in designing and developing high-performance, scalable, and secure web applications. Expertise in microservices architecture, cloud-native development, and DevOps practices. Proven ability to lead development teams and mentor junior engineers.\n\nSkills\n\n* **Languages & Frameworks:** JavaScript, React, Node.js, Express.js, HTML, CSS, Python, Django\n* **Databases:** PostgreSQL, MongoDB, Redis, SQL\n* **Tools & Concepts:** Git, Docker, Kubernetes, AWS, CI/CD, Microservices, RESTful APIs, Agile/Scrum\n* **Other:** Leadership, System Architecture, Performance Tuning, Mentorship\n\nExperience\n\n**Senior Full Stack Developer** | Global Banking Corp. | 2018 - Present\n* Led a team of 5 developers in the design and development of a new full-stack banking platform on AWS.\n* Architected and implemented a robust CI/CD pipeline using Jenkins, Docker, and Kubernetes, reducing deployment time by 60%.\n* Optimized application performance and database queries, resulting in a 30% reduction in latency for mission-critical transactions.\n* Mentored junior and mid-level developers on best practices in full-stack development and system architecture.\n\n**Full Stack Developer** | Financial Tech Innovations | 2014 - 2018\n* Designed and developed backend and frontend services for a high-traffic trading platform using Python/Django and React.\n* Implemented new features and resolved complex bugs, ensuring the stability and security of the platform.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Junior Full Stack Developer** | Enterprise Solutions Co. | 2013 - 2014\n* Contributed to the backend development of a new enterprise application, gaining hands-on experience with Python and Django.\n* Assisted in writing unit tests and debugging code.\n\nEducation\n\n**M.S. in Computer Science** | Stanford University | 2013\n\nProjects & Certifications\n\n* **Certification:** AWS Certified Solutions Architect - Associate\n* **Project:** Led an open-source project to develop a full-stack monitoring tool for microservices, gaining community traction.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 332
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience leading development teams and mentoring junior engineers?",
+          "answer": "As a Senior Full Stack Developer at Global Banking Corp., I led a team of 5 developers in designing and developing a new full-stack banking platform on AWS, and mentored junior and mid-level developers on best practices in full-stack development and system architecture."
+        },
+        {
+          "question": "How would you compare your proficiency with React, Angular, and Vue.js? Have you worked with Angular or Vue.js specifically?",
+          "answer": "I have primarily worked with React. While I'm familiar with the concepts of Angular and Vue.js, my direct experience is limited to React. I haven't worked on projects specifically using Angular or Vue.js."
+        },
+        {
+          "question": "Can you discuss your experience with Python/Django and any other backend frameworks listed in the job description, such as Ruby on Rails or Java/Spring?",
+          "answer": "I have experience with Python/Django, having used it to develop backend services for a high-traffic trading platform at Financial Tech Innovations and contributed to the backend development of an enterprise application at Enterprise Solutions Co. I don't have direct experience with Ruby on Rails or Java/Spring."
+        },
+        {
+          "question": "What strategies have you used to optimize application performance and database queries in past projects?",
+          "answer": "At Global Banking Corp., I optimized application performance and database queries, achieving a 30% reduction in latency for mission-critical transactions. I focused on optimizing database queries and application code to improve overall performance."
+        },
+        {
+          "question": "How do you approach collaborating within Agile/Scrum teams to ensure project success?",
+          "answer": "In my experience with Agile/Scrum teams, such as at Financial Tech Innovations, I participated in all phases of the software development lifecycle. I believe in active collaboration, clear communication, and iterative development to ensure project success within Agile/Scrum frameworks."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_09",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 88,
+        "reasons": {
+          "skills": "Strong in React, Node.js, Java/Spring, relational databases, Git, and Agile/Scrum, but lacks experience with Vue.js, Angular, and NoSQL databases.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of relevant experience, including leadership and mentoring roles.",
+          "education": "Holds an M.S. in Computer Science, exceeding the Bachelor's degree requirement.",
+          "overall": "Highly qualified with strong skills, extensive experience, and advanced education, but missing some specific technologies like Vue.js and Angular."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_09",
+        "source_path": "synthetic://fsd_senior_09.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and Node.js in building full-stack applications?",
+          "answer": "I've used React and Node.js to build full-stack applications, such as a high-traffic web application at Tech Innovations where I developed and maintained both backend and frontend services. I also gained hands-on experience with Node.js and Express.js at Startup Innovators."
+        },
+        {
+          "question": "How have you applied Agile/Scrum methodologies in your previous roles?",
+          "answer": "I've applied Agile/Scrum methodologies in my previous roles, participating in all phases of the software development lifecycle within an Agile team at Tech Innovations and leading a team at Global Software Solutions, where we used Agile/Scrum to guide our development process."
+        },
+        {
+          "question": "What challenges did you face while optimizing application performance, and how did you overcome them?",
+          "answer": "At Global Software Solutions, I optimized an application's performance, reducing latency by 30%. The challenges included identifying bottlenecks and implementing efficient solutions, which I overcame by analyzing the system, applying performance tuning techniques, and leveraging expertise in distributed systems."
+        },
+        {
+          "question": "Do you have experience working with Vue.js or Angular, and if not, how would you approach learning them quickly for this role?",
+          "answer": "While my experience is primarily with React and not Vue.js or Angular, I have worked with Java/Spring and Node.js/Express.js. If needed, I'd approach learning Vue.js or Angular by leveraging online resources, documentation, and potentially taking courses to quickly get up to speed, as I've done with other technologies in the past."
+        },
+        {
+          "question": "Can you describe your approach to mentoring junior developers and fostering collaboration within a team?",
+          "answer": "As a Principal Full Stack Developer at Global Software Solutions, I mentored junior and mid-level developers, providing technical guidance and conducting code reviews. I fostered collaboration by leading a team of 7 developers in designing and developing a new full-stack application, promoting a collaborative spirit through regular feedback and open communication."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_18",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 88,
+        "reasons": {
+          "skills": "Strong in required skills like React, Node.js, relational databases, Git, and Agile/Scrum, but lacks experience with Vue.js and Angular.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of experience, including leadership roles and relevant technical expertise.",
+          "education": "Holds an M.S. in Computer Science, which surpasses the Bachelor's degree requirement.",
+          "overall": "Highly qualified with strong skills, extensive experience, and advanced education, but missing direct exposure to Vue.js and Angular."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_18",
+        "source_path": "synthetic://fsd_senior_18.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and how you've used it in recent projects?",
+          "answer": "I've used React in several projects, including a high-traffic web application at Tech Innovations, where I developed and maintained both backend and frontend services. My experience with React involves creating reusable components, managing state, and optimizing performance."
+        },
+        {
+          "question": "How do you approach designing and implementing microservices-based architectures?",
+          "answer": "I've designed and implemented microservices-based architectures, most notably at Global Software Solutions, where I led a team in developing a new full-stack application. We focused on defining clear service boundaries, implementing effective communication between services, and ensuring scalability and resilience."
+        },
+        {
+          "question": "Do you have hands-on experience with Vue.js or Angular, and if not, how would you approach learning them quickly for this role?",
+          "answer": "While I don't have direct experience with Vue.js or Angular, I've worked with React and Java/Spring. I would approach learning them by first understanding their core concepts and differences from React, then diving into documentation, tutorials, and small projects to gain hands-on experience."
+        },
+        {
+          "question": "What strategies have you used to optimize application performance, such as the 30% latency reduction mentioned in your resume?",
+          "answer": "To optimize application performance, I've used strategies like profiling to identify bottlenecks, optimizing database queries, implementing caching (e.g., with Redis), and improving code efficiency. At Global Software Solutions, we achieved a 30% latency reduction by optimizing database queries, improving service communication, and fine-tuning our application's configuration."
+        },
+        {
+          "question": "Can you describe your experience with relational and NoSQL databases, particularly PostgreSQL and Redis?",
+          "answer": "I've worked with both relational (PostgreSQL, MySQL) and NoSQL (Redis) databases. With PostgreSQL, I've designed and optimized database schemas, written complex queries, and used indexing to improve performance. With Redis, I've used it as a caching layer to reduce database load and improve response times, and implemented data structures like sets and hashes to support specific application needs."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_02",
+      "scores": {
+        "skills_score": 85,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 88,
+        "reasons": {
+          "skills": "Strong in React, Node.js, Java/Spring, RESTful APIs, databases, and Git, but lacks direct experience with Angular and Vue.js.",
+          "experience": "15+ years of experience, including leadership roles and relevant technical achievements, exceeding the 3-5 years required.",
+          "education": "Holds an M.S. in Computer Science, exceeding the Bachelor's degree requirement.",
+          "overall": "Highly qualified with strong skills, extensive experience, and advanced education, but minor gaps in specific front-end frameworks."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_02",
+        "source_path": "synthetic://fsd_senior_02.txt",
+        "name": "Michael Davis",
+        "contact": {
+          "email": "michael.davis@example.com",
+          "phone": "+1-555-765-4321",
+          "location": "Los Angeles, USA",
+          "linkedin": "https://www.linkedin.com/in/michael-davis-fsd",
+          "github": "https://github.com/mdavis-fsd"
+        },
+        "skills": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Java",
+          "Spring",
+          "Microservices",
+          "PostgreSQL",
+          "MongoDB",
+          "Cassandra",
+          "SQL",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "Distributed Systems",
+          "Leadership",
+          "System Architecture",
+          "Performance Tuning",
+          "Budgeting",
+          "Mentorship"
+        ],
+        "experience": [
+          {
+            "title": "Lead Full Stack Architect",
+            "company": "E-commerce Giants",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Architected and led the development of a new full-stack e-commerce platform, handling millions of users daily with high availability.",
+              "Oversaw the migration of a monolithic application to a microservices architecture, improving scalability and reducing development time by 30%.",
+              "Designed and implemented a new CI/CD pipeline that automated builds, tests, and deployments across all services.",
+              "Led a team of 10+ developers, providing technical guidance, conducting code reviews, and ensuring adherence to best practices."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Cloud Solutions Co.",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained mission-critical applications for a variety of clients on AWS.",
+              "Designed and implemented RESTful APIs for new services, ensuring seamless integration with existing systems.",
+              "Mentored junior developers on best practices in full-stack and cloud-native development."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2010",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Southern California",
+            "year": "2010"
+          }
+        ],
+        "certifications": [
+          "AWS Certified Solutions Architect - Professional"
+        ],
+        "raw_text": "Summary\nLead Full Stack Architect with 15+ years of experience in designing and building scalable, distributed web systems. Expert in microservices architecture, cloud computing, and DevOps. Proven ability to lead large, cross-functional teams and drive technical excellence.\n\nSkills\n\n* **Languages & Frameworks:** JavaScript, React, Node.js, Express.js, Java, Spring, Microservices\n* **Databases:** PostgreSQL, MongoDB, Cassandra, SQL\n* **Tools & Concepts:** Git, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum, Distributed Systems\n* **Other:** Leadership, System Architecture, Performance Tuning, Budgeting, Mentorship\n\nExperience\n\n**Lead Full Stack Architect** | E-commerce Giants | 2017 - Present\n* Architected and led the development of a new full-stack e-commerce platform, handling millions of users daily with high availability.\n* Oversaw the migration of a monolithic application to a microservices architecture, improving scalability and reducing development time by 30%.\n* Designed and implemented a new CI/CD pipeline that automated builds, tests, and deployments across all services.\n* Led a team of 10+ developers, providing technical guidance, conducting code reviews, and ensuring adherence to best practices.\n\n**Senior Full Stack Developer** | Cloud Solutions Co. | 2013 - 2017\n* Developed and maintained mission-critical applications for a variety of clients on AWS.\n* Designed and implemented RESTful APIs for new services, ensuring seamless integration with existing systems.\n* Mentored junior developers on best practices in full-stack and cloud-native development.\n\n**Full Stack Developer** | Tech Innovations | 2010 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n\nEducation\n\n**M.S. in Computer Science** | University of Southern California | 2010\n\nProjects & Certifications\n\n* **Certification:** AWS Certified Solutions Architect - Professional\n* **Project:** Developed a distributed caching system in Node.js to improve the performance of a high-traffic web application.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 320
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience migrating monolithic applications to microservices architectures?",
+          "answer": "I oversaw the migration of a monolithic application to a microservices architecture at E-commerce Giants, improving scalability and reducing development time by 30%."
+        },
+        {
+          "question": "How proficient are you with front-end frameworks like Angular and Vue.js, given your focus on React?",
+          "answer": "While my primary front-end framework experience is with React, I've worked with various technologies and could adapt to Angular or Vue.js; however, my proficiency is mainly in React."
+        },
+        {
+          "question": "What role has your AWS Certified Solutions Architect certification played in your recent projects?",
+          "answer": "My AWS Certified Solutions Architect certification has been crucial in designing and implementing cloud-native solutions, particularly at Cloud Solutions Co. and E-commerce Giants."
+        },
+        {
+          "question": "Can you describe a time when you led a team through a challenging technical problem and how you resolved it?",
+          "answer": "As a Lead Full Stack Architect at E-commerce Giants, I led a team of 10+ developers through various technical challenges, including the development of a new e-commerce platform, providing technical guidance and conducting code reviews."
+        },
+        {
+          "question": "How do you ensure effective communication and collaboration in Agile/Scrum environments?",
+          "answer": "In Agile/Scrum environments, I ensure effective communication and collaboration by actively participating in daily stand-ups, sprint planning, and retrospectives, and by fostering an open and transparent team culture."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_06",
+      "scores": {
+        "skills_score": 75,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 85,
+        "reasons": {
+          "skills": "Strong in React, Node.js, and other relevant tools, but lacks experience with Angular and Vue.js.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of relevant experience, including leadership roles.",
+          "education": "Holds an M.S. in Computer Science, which exceeds the Bachelor's degree requirement.",
+          "overall": "Highly experienced and well-educated, but missing some required skills (Angular, Vue.js)."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_06",
+        "source_path": "synthetic://fsd_senior_06.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and Node.js in building full-stack applications?",
+          "answer": "I've used React and Node.js to build full-stack applications. At Tech Innovations, I developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring, and at Startup Innovators, I gained hands-on experience with Node.js and Express.js."
+        },
+        {
+          "question": "How have you optimized application performance in your previous roles, such as reducing latency or improving system efficiency?",
+          "answer": "At Global Software Solutions, I optimized an application's performance, reducing latency by 30% and improving overall system efficiency. I also designed and implemented a robust CI/CD pipeline, which improved release frequency."
+        },
+        {
+          "question": "Do you have hands-on experience with Angular or Vue.js, and how do you compare them to React?",
+          "answer": "I don't have direct experience with Angular or Vue.js, but I've worked with React and understand the principles of various frontend frameworks."
+        },
+        {
+          "question": "What challenges have you faced while implementing CI/CD pipelines, and how did you overcome them?",
+          "answer": "Implementing a CI/CD pipeline at Global Software Solutions was challenging due to the complexity of our microservices architecture. I overcame these challenges by designing a robust pipeline that reduced deployment time and improved release frequency."
+        },
+        {
+          "question": "How do you approach mentoring junior developers and fostering a collaborative team environment?",
+          "answer": "As a Principal Full Stack Developer at Global Software Solutions, I've mentored junior and mid-level developers, providing technical guidance and conducting code reviews. I foster a collaborative environment by encouraging open communication and knowledge sharing within the team."
+        }
+      ]
+    },
+    {
+      "doc_id": "fsd_senior_12",
+      "scores": {
+        "skills_score": 75,
+        "experience_score": 90,
+        "education_score": 100,
+        "overall_score": 85,
+        "reasons": {
+          "skills": "Strong in React, Node.js, Java/Spring, relational databases, Git, Agile/Scrum, and problem-solving, but lacks experience with Angular, Vue.js, Python/Django, and Ruby on Rails.",
+          "experience": "Exceeds the required 3-5 years with 15+ years of relevant experience, including leadership roles and microservices architecture.",
+          "education": "Holds an M.S. in Computer Science, which exceeds the Bachelor's degree requirement.",
+          "overall": "Highly experienced and educated, but missing some required skills like Angular, Vue.js, Python/Django, and Ruby on Rails."
+        }
+      },
+      "candidate": {
+        "doc_id": "fsd_senior_12",
+        "source_path": "synthetic://fsd_senior_12.txt",
+        "name": "Alex Wilson",
+        "contact": {
+          "email": "alex.wilson@example.com",
+          "phone": "+1-555-876-5432",
+          "location": "Austin, USA",
+          "linkedin": "https://www.linkedin.com/in/alex-wilson-fsd",
+          "github": "https://github.com/awilson-fsd"
+        },
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React",
+          "Node.js",
+          "Express.js",
+          "Microservices",
+          "PostgreSQL",
+          "MySQL",
+          "Redis",
+          "SQL",
+          "Git",
+          "Maven",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "CI/CD",
+          "Agile/Scrum",
+          "System Architecture",
+          "Performance Tuning",
+          "Mentorship",
+          "Problem-Solving"
+        ],
+        "experience": [
+          {
+            "title": "Principal Full Stack Developer",
+            "company": "Global Software Solutions",
+            "start": "2017",
+            "end": "Present",
+            "bullets": [
+              "Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.",
+              "Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.",
+              "Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.",
+              "Mentored junior and mid-level developers, providing technical guidance and conducting code reviews."
+            ]
+          },
+          {
+            "title": "Senior Full Stack Developer",
+            "company": "Tech Innovations",
+            "start": "2013",
+            "end": "2017",
+            "bullets": [
+              "Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.",
+              "Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.",
+              "Participated in all phases of the software development lifecycle within an Agile team."
+            ]
+          },
+          {
+            "title": "Full Stack Developer",
+            "company": "Startup Innovators",
+            "start": "2012",
+            "end": "2013",
+            "bullets": [
+              "Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.",
+              "Assisted in debugging and troubleshooting production issues."
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "school": "University of Texas at Austin",
+            "year": "2012"
+          }
+        ],
+        "certifications": [],
+        "raw_text": "Summary\nAccomplished Principal Full Stack Developer with 15+ years of experience in designing and developing complex enterprise applications. Expert in software architecture, performance optimization, and distributed systems. Proven ability to lead technical initiatives and mentor junior developers to build high-quality software.\n\nSkills\n\n* **Languages & Frameworks:** Java, Spring Boot, React, Node.js, Express.js, Microservices\n* **Databases:** PostgreSQL, MySQL, Redis, SQL\n* **Tools & Concepts:** Git, Maven, Jenkins, Docker, Kubernetes, AWS, CI/CD, Agile/Scrum\n* **Other:** System Architecture, Performance Tuning, Mentorship, Problem-Solving\n\nExperience\n\n**Principal Full Stack Developer** | Global Software Solutions | 2017 - Present\n* Led a team of 7 developers in the design and development of a new full-stack application with a microservices-based architecture.\n* Optimized the application's performance, reducing latency by 30% and improving overall system efficiency.\n* Designed and implemented a robust CI/CD pipeline, reducing deployment time and improving release frequency.\n* Mentored junior and mid-level developers, providing technical guidance and conducting code reviews.\n\n**Senior Full Stack Developer** | Tech Innovations | 2013 - 2017\n* Developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring.\n* Wrote and executed unit, integration, and E2E tests to ensure the reliability and security of new features.\n* Participated in all phases of the software development lifecycle within an Agile team.\n\n**Full Stack Developer** | Startup Innovators | 2012 - 2013\n* Contributed to the development of a new web application, gaining hands-on experience with Node.js and Express.js.\n* Assisted in debugging and troubleshooting production issues.\n\nEducation\n\n**M.S. in Computer Science** | University of Texas at Austin | 2012\n\nProjects & Certifications\n\n* **Certification:** None\n* **Project:** Led an internal project to refactor a legacy application to a full-stack microservices architecture, improving its performance and scalability.",
+        "embed_meta": {
+          "model": "team12-embedding",
+          "fusion_version": "v1",
+          "created_at": "2025-09-14T18:37:41Z",
+          "tokens": 323
+        }
+      },
+      "qa": [
+        {
+          "question": "Can you elaborate on your experience with React and Node.js in full-stack development projects?",
+          "answer": "I've used React and Node.js in multiple full-stack projects. At Tech Innovations, I developed and maintained backend and frontend services for a high-traffic web application using React and Java/Spring. At Startup Innovators, I gained hands-on experience with Node.js and Express.js while contributing to a new web application."
+        },
+        {
+          "question": "How have you utilized microservices architecture in your previous roles, and what challenges did you face?",
+          "answer": "At Global Software Solutions, I led a team in designing and developing a full-stack application with a microservices-based architecture. We faced challenges such as service communication, data consistency, and deployment complexity, but were able to overcome them through careful planning and implementation."
+        },
+        {
+          "question": "Do you have hands-on experience with Angular or Vue.js, even though they aren't listed in your resume?",
+          "answer": "My resume doesn't list Angular or Vue.js, and I don't have direct experience with them. However, my experience with React and understanding of frontend frameworks' general principles could facilitate learning them if needed."
+        },
+        {
+          "question": "Can you describe your approach to mentoring junior developers and fostering collaboration within a team?",
+          "answer": "As a Principal Full Stack Developer at Global Software Solutions, I've mentored junior and mid-level developers, providing technical guidance and conducting code reviews. I believe in fostering collaboration by promoting open communication, sharing knowledge, and encouraging teamwork."
+        },
+        {
+          "question": "What strategies have you used to optimize application performance, such as reducing latency or improving scalability?",
+          "answer": "To optimize application performance, I've used strategies such as performance tuning and optimizing database queries. At Global Software Solutions, I optimized an application's performance, reducing latency by 30% and improving overall system efficiency. I also designed and implemented a robust CI/CD pipeline to improve release frequency and reduce deployment time."
+        }
+      ]
+    }
+  ]
+}
